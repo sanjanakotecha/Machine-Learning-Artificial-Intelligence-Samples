@@ -1,2 +1,2 @@
-# Sample_Machine-Learning
-Trying first-time hands-on ML using scikit-learn
+# Machine Learning/Artificial Intelligence Samples
+Hands-on exercises on Machine Learning and Artificial Intelligence
